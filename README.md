@@ -1,2 +1,3 @@
 # TestProject
-Test Project For Commit Test
+This is a simple project to test committing
+
